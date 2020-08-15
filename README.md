@@ -4,4 +4,4 @@ I'm a **User Interface Design Engineer** building inclusive and accessible websi
 
 Previously I was a Web Developer for Skokie Public Library and before that I was an Adjunct Web Developer for Grand Valley State University Libraries.
 
-[View my resume](https://resume.yelrae.com)
+[View my resume](https://yelrae.com)
